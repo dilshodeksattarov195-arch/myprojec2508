@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheprocess",
+        "uuid": 11431464,
+        "checksum": "1ksvaa"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
